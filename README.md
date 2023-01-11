@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Matt
+### Hi there 👋 I'm Matthew Neufeld
 
 <!--
 **MatthewNeufeld/MatthewNeufeld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
