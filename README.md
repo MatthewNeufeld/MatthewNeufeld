@@ -6,4 +6,4 @@
 
 Feel free to explore my projects and see what I've been working on!
 
-TESTING 1234
+This is a test. Hello world.
